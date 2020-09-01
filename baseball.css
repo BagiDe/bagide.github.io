@@ -1,0 +1,48 @@
+body {
+    background-image: url(./baseball-background.jpg);
+    background-size: 960px;
+    background-repeat: no-repeat;
+    background-position-x: 150px;
+    
+}
+
+#ML {
+    color:red;
+}
+
+a:link {
+    color:purple;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  .bla {
+    height: 940px;
+    width: 850px;
+    padding: 20px 30px;
+    margin: 150px 0 0 380px;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    background: rgba(255, 1255, 255, 0.8)
+    
+  }
+
+
+div.ball {
+  width: 150px;
+    float: right;
+    padding: 20px;
+    margin: 10px;
+    border-left: 2px solid black;
+}
+
+.kepalairas {
+  text-align: center;
+    font-style: italic;
+}
